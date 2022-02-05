@@ -2,7 +2,7 @@
 
 Tipster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-It is orinally named Flixster but I have a poor listening so I thought it was Tipster. Sorry but it is Tipster now. A little bit weird but sometimes we should accept something outside our inherent perception.
+It is orinally named Flix but I have a poor listening so I thought it was Tipster. Sorry but it is Tipster now. A little bit weird but sometimes we should embrace something outside our inherent perception.
 
 ---
 
