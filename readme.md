@@ -22,7 +22,7 @@ It is orinally named Flixster but I have a poor listening so I thought it was Ti
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/NLiSPay.gif)
+![ezgif com-gif-maker 下午9 46 48](https://user-images.githubusercontent.com/86068048/152626296-4952c5a7-43a2-404b-a58b-20e87f423c99.gif)
 
 
 ### Notes
